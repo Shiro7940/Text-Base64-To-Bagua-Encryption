@@ -1,7 +1,7 @@
 '''
 Simple functions to replace base64 encoded string with Chinese Bagua symbols.
 https://en.wikipedia.org/wiki/Bagua For more info about Bagua.
-Notice that the converted Bagua string's appearance will not correspond to their binary representation,
+Notice that the converted Bagua string's appearance will not correspond to the base64 characters' binary representation,
 since the conversion is performed according to the Unicode order.
 (Might have a update about that.)
 '''
